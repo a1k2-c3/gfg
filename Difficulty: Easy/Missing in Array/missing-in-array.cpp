@@ -13,12 +13,15 @@ class Solution {
     // Note that the size of the array is n-1
     int missingNumber(int n, vector<int>& arr) {
 
-        int x=((n+1)*n)/2;
-        int sum=0;
-        for(int i=0;i<arr.size();i++){
-            sum+=arr[i];
+        // Your code goes here
+        int s=(n*(n+1))/2;
+        int c=0;
+        for(int i=0;i<arr.size();i++)
+        {
+            c+=arr[i];
         }
-        return(abs(x-sum));
+        return(abs(s-c));
+        
     }
 };
 
