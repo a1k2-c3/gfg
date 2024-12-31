@@ -1,0 +1,13 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1">Longest Consecutive Subsequence</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="user-select: auto;"><p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;">Given an array <strong style="user-select: auto;">arr[]</strong> of non-negative integers. Find the <strong style="user-select: auto;">length</strong> of the longest sub-sequence such that elements in the subsequence are consecutive integers, the<strong style="user-select: auto;"> consecutive numbers</strong> can be in <strong style="user-select: auto;">any order.</strong></span></p>
+<p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Examples:</strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Input: </strong>arr[] = [2, 6, 1, 9, 4, 5, 3]
+<strong style="user-select: auto;">Output: </strong>6<strong style="user-select: auto;">
+Explanation: </strong>The consecutive numbers here are 1, 2, 3, 4, 5, 6. These 6 numbers form the longest consecutive subsquence.</span></pre>
+<pre style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Input: </strong>arr[] = [1, 9, 3, 10, 4, 20, 2]
+<strong style="user-select: auto;">Output: </strong>4<strong style="user-select: auto;">
+Explanation: </strong>1, 2, 3, 4 is the longest consecutive subsequence.</span></pre>
+<pre style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Input</strong>: arr[] = [15, 13, 12, 14, 11, 10, 9]
+<strong style="user-select: auto;">Output</strong>: 7
+<strong style="user-select: auto;">Explanation</strong>: The longest consecutive subsequence is 9, 10, 11, 12, 13, 14, 15, which has a length of 7.
+</span></pre>
+<p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Constraints:</strong></span><br style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;">1 &lt;= arr.size() &lt;= 10<sup style="user-select: auto;">5</sup><br style="user-select: auto;">0 &lt;= arr[i] &lt;= 10<sup style="user-select: auto;">5</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Amazon</code>&nbsp;<code>Microsoft</code>&nbsp;<code>Walmart</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Hash</code>&nbsp;<code>Data Structures</code>&nbsp;
