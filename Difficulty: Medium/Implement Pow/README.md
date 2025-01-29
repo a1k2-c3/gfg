@@ -1,0 +1,12 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/powx-n/1">Implement Pow</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO" style="user-select: auto;"><p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;">Implement the function <strong style="user-select: auto;">power(b, e)</strong>, which calculates <strong style="user-select: auto;">b</strong> raised to the power of <strong style="user-select: auto;">e</strong> (i.e. b<sup style="user-select: auto;">e</sup>).</span></p>
+<p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Examples:</strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Input:</strong> b = 3.00000, e = 5</span><br style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Output:</strong> 243.00000</span></pre>
+<pre style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Input:</strong> b = 0.55000, e = 3</span><br style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Output:</strong> 0.16638</span></pre>
+<pre style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Input:</strong> b = -0.67000, e = -7</span><br style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Output:</strong> -16.49971</span></pre>
+<p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Constraints:</strong></span></p>
+<ul style="user-select: auto;">
+<li style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;">-100.0 &lt; b &lt; 100.0</span></li>
+<li style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;">-10<sup style="user-select: auto;">9</sup> &lt;= e &lt;= 10<sup style="user-select: auto;">9</sup></span></li>
+<li style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;">Either b is not zero or e &gt; 0.</span></li>
+<li style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;">-10<sup style="user-select: auto;">4</sup> &lt;= b<sup style="user-select: auto;">e</sup> &lt;= 10<sup style="user-select: auto;">4</sup></span></li>
+</ul></div>
