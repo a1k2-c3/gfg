@@ -24,15 +24,7 @@ class Solution {
   }
     vector<string> findPermutation(string &s) {
         // Code here there
-        unordered_map<char,int>mp;
-        for(int i=0;i<s.size();i++){
-            mp[s[i]]++;
-        }
         vector<string>ans;
-        if(mp.size()==1){
-            ans.push_back(s);
-            return ans;
-        }
         string ds;
         int freq[s.size()]={0};
         recursive(s,ans,ds,freq);
